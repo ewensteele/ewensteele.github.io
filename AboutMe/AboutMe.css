@@ -37,7 +37,7 @@ h1 {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .timeline ul {
-  background: #2c5c91;
+  background: #a0c0e3;
   padding: 50px 0;
 }
 
@@ -67,7 +67,7 @@ h1 {
   bottom: 0;
   width: 400px;
   padding: 15px;
-  background: #F45B69;
+  background: rgb(255, 255, 255);
 }
 
 .timeline ul li div::before {
