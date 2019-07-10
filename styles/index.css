@@ -6,8 +6,17 @@ body {
     font: 12 "Ariel";
     margin: 25px
 }
-img {
+.carousel-inner img {
     display: block;
     max-width: 100%;
     height: auto;
+  }
+
+  .carouselImages .carousel-item {
+    height: 300px;
+  }
+  .carousel-inner {
+      height: 300px;
+      margin-top: 10px;
+      overflow: hidden;
   }
